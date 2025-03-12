@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 # tugas1wfd
